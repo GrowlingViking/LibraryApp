@@ -12,5 +12,6 @@ namespace LibraryApi.Models
         public string Description { get; set; }
         public string Genre { get; set; }
         public int NrOfCopies { get; set; }
+        public string Author { get; set; }
     }
 }

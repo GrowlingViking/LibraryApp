@@ -1,0 +1,14 @@
+C:\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.deps.json
+C:\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.runtimeconfig.json
+C:\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.runtimeconfig.dev.json
+C:\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.dll
+C:\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.pdb
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.csprojAssemblyReference.cache
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.csproj.CoreCompileInputs.cache
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.RazorAssemblyInfo.cache
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.RazorAssemblyInfo.cs
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.AssemblyInfoInputs.cache
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.AssemblyInfo.cs
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.RazorTargetAssemblyInfo.cache
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.dll
+C:\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.pdb

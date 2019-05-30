@@ -12077,30 +12077,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sigurd\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/Sigurd/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LibraryApp\\LibraryApi\\LibraryApi.csproj",
+      "projectUniqueName": "/Users/Sigurd/LibraryApp/LibraryApi/LibraryApi.csproj",
       "projectName": "LibraryApi",
-      "projectPath": "C:\\LibraryApp\\LibraryApi\\LibraryApi.csproj",
-      "packagesPath": "C:\\Users\\sigurd\\.nuget\\packages\\",
-      "outputPath": "C:\\LibraryApp\\LibraryApi\\obj\\",
+      "projectPath": "/Users/Sigurd/LibraryApp/LibraryApi/LibraryApi.csproj",
+      "packagesPath": "/Users/Sigurd/.nuget/packages/",
+      "outputPath": "/Users/Sigurd/LibraryApp/LibraryApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sigurd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/Sigurd/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

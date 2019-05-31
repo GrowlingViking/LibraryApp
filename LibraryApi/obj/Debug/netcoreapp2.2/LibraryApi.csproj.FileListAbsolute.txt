@@ -26,3 +26,17 @@ C:/LibraryApp/LibraryApi/obj/Debug/netcoreapp2.2/LibraryApi.pdb
 /Users/Sigurd/LibraryApp/LibraryApi/bin/Debug/netcoreapp2.2/LibraryApi.dll
 /Users/Sigurd/LibraryApp/LibraryApi/bin/Debug/netcoreapp2.2/LibraryApi.pdb
 /Users/Sigurd/LibraryApp/LibraryApi/obj/Debug/netcoreapp2.2/LibraryApi.RazorTargetAssemblyInfo.cache
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.csprojAssemblyReference.cache
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.csproj.CoreCompileInputs.cache
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.RazorAssemblyInfo.cache
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.RazorAssemblyInfo.cs
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.AssemblyInfoInputs.cache
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.AssemblyInfo.cs
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.dll
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.pdb
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.deps.json
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.runtimeconfig.json
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.runtimeconfig.dev.json
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.dll
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\bin\Debug\netcoreapp2.2\LibraryApi.pdb
+C:\Users\Sigurd\Desktop\LibraryApp\LibraryApi\obj\Debug\netcoreapp2.2\LibraryApi.RazorTargetAssemblyInfo.cache

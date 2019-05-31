@@ -1,18 +1,19 @@
+using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using LibraryApi.Models;
 
 namespace LibraryApi.Models
 {
-    public class Book
+    public class Customer
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
+        public List<LoanedBook> LoanedBooks { get; set; }
+        public int SumOfOverdueFees { get; set; }
         public string Name { get; set; }
-        public string Description { get; set; }
-        public string Genre { get; set; }
-        public int NrOfCopies { get; set; }
-        public string Author { get; set; }
-        public int Price { get; set; }
+        public List<DateTime> Duedates { get; set; }
     }
 }

@@ -10,11 +10,11 @@ namespace LibraryApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BooksController : ControllerBase
+    public class BookController : ControllerBase
     {
         private readonly LibraryContext _context;
 
-        public BooksController(LibraryContext context)
+        public BookController(LibraryContext context)
         {
             _context = context;
         }
